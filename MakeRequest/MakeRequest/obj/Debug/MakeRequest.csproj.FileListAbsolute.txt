@@ -1,0 +1,10 @@
+C:\Users\Fronk1221\source\repos\MakeRequest\MakeRequest\bin\Debug\MakeRequest.exe.config
+C:\Users\Fronk1221\source\repos\MakeRequest\MakeRequest\bin\Debug\MakeRequest.exe
+C:\Users\Fronk1221\source\repos\MakeRequest\MakeRequest\bin\Debug\MakeRequest.pdb
+C:\Users\Fronk1221\source\repos\MakeRequest\MakeRequest\obj\Debug\MakeRequest.csproj.AssemblyReference.cache
+C:\Users\Fronk1221\source\repos\MakeRequest\MakeRequest\obj\Debug\MakeRequest.Form1.resources
+C:\Users\Fronk1221\source\repos\MakeRequest\MakeRequest\obj\Debug\MakeRequest.Properties.Resources.resources
+C:\Users\Fronk1221\source\repos\MakeRequest\MakeRequest\obj\Debug\MakeRequest.csproj.GenerateResource.cache
+C:\Users\Fronk1221\source\repos\MakeRequest\MakeRequest\obj\Debug\MakeRequest.csproj.CoreCompileInputs.cache
+C:\Users\Fronk1221\source\repos\MakeRequest\MakeRequest\obj\Debug\MakeRequest.exe
+C:\Users\Fronk1221\source\repos\MakeRequest\MakeRequest\obj\Debug\MakeRequest.pdb
